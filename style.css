@@ -55,6 +55,19 @@ body {
    font-size: 20px;
  }
 
+.ava {
+   width: 300px;
+}
+
+.section-title {
+   font-style: italic;
+   text-decoration: underline 3px #ecac81;
+}
+
  .eng-desc {
    margin-bottom: 0;
+ }
+
+ .logo {
+   width: 150px;
  }
