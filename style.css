@@ -64,10 +64,30 @@ body {
    text-decoration: underline 3px #ecac81;
 }
 
- .eng-desc {
+
+
+
+.eng-desc {
    margin-bottom: 0;
  }
 
+
+.footer-content {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
  .logo {
    width: 150px;
+ }
+
+ .gh-link {
+   text-decoration: none;
+   font-size: 20px;
+   color: #000000;
+ }
+
+ .date {
+   font-size: 20px;
  }
