@@ -92,6 +92,16 @@ li {
    }
  }
 
+.project-link {
+   text-decoration: none;
+   color: #000000;
+   transition: 0.3s;
+}
+
+.project-link:hover {
+   font-size: 22px;
+}
+
 .eng-desc {
    margin-bottom: 0;
  }
